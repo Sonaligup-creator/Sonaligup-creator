@@ -47,23 +47,49 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured DevOps Platform (End-to-End)
 
-🔹 **AKS Microservices Platform**
-- Terraform + Helm + Azure DevOps  
-- Secure, scalable microservices deployment  
+### 🏗️ Architecture Flow
+Developer → GitHub → CI/CD Pipeline → Docker → Kubernetes → LoadBalancer → Users
+↑
+Terraform (Infrastructure Provisioning)
 
-🔹 **EKS Infrastructure Setup**
-- Modular Terraform architecture  
-- Production-ready Kubernetes cluster  
 
-🔹 **CI/CD Pipeline Automation**
+---
+
+### 🔹 Infrastructure (Terraform)
+
+🔗 https://github.com/Sonaligup-creator/infrastructure-Terraform  
+
+- Provisioned AWS/Azure infrastructure using Terraform  
+- Modular and reusable architecture  
+- AKS/EKS cluster provisioning  
+
+---
+
+### 🔹 Kubernetes Deployment
+
+🔗 https://github.com/Sonaligup-creator/Kubernetes-app-deployment  
+
+- Application deployment on Kubernetes  
+- Helm-based configurations  
+- Scalable microservices setup  
+
+---
+
+### 🔹 CI/CD Automation
+
 - Azure DevOps YAML pipelines  
-- Automated build, test & deployment  
+- Automated build → test → deploy workflow  
+- Integrated with containerized deployments  
 
-🔹 **Monitoring Stack**
-- Prometheus + Grafana dashboards  
-- Real-time alerting & observability  
+---
+
+### 🔹 Monitoring & Observability
+
+- Prometheus for metrics  
+- Grafana dashboards  
+- Real-time alerting & performance tracking  
 
 ---
 
