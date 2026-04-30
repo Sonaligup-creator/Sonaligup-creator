@@ -60,7 +60,7 @@ Developer → GitHub → CI/CD Pipeline → Docker → Kubernetes → LoadBalanc
 
 ### 🔹 Infrastructure (Terraform)
 
-🔗 https://github.com/Sonaligup-creator/infrastructure-Terraform  
+🔗 https://github.com/Sonaligup-creator/terraform-azure-aks-infrastructure
 
 - Provisioned Azure infrastructure using Terraform  
 - Modular and reusable architecture  
@@ -70,7 +70,7 @@ Developer → GitHub → CI/CD Pipeline → Docker → Kubernetes → LoadBalanc
 
 ### 🔹 Kubernetes Deployment
 
-🔗 https://github.com/Sonaligup-creator/Kubernetes-app-deployment  
+🔗 https://github.com/Sonaligup-creator/kubernetes-microservices-deployment
 
 - Application deployment on Kubernetes  
 - Scalable microservices setup  
