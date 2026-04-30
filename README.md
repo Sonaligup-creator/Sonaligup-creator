@@ -50,20 +50,21 @@
 ## 🚀 Featured DevOps Platform (End-to-End)
 
 ### 🏗️ Architecture Flow
+
+```
 Developer → GitHub → CI/CD Pipeline → Docker → Kubernetes → LoadBalancer → Users
-↑
-Terraform (Infrastructure Provisioning)
-
-
+                    ↑
+              Terraform (Infrastructure Provisioning)
+```
 ---
 
 ### 🔹 Infrastructure (Terraform)
 
 🔗 https://github.com/Sonaligup-creator/infrastructure-Terraform  
 
-- Provisioned AWS/Azure infrastructure using Terraform  
+- Provisioned Azure infrastructure using Terraform  
 - Modular and reusable architecture  
-- AKS/EKS cluster provisioning  
+- AKS cluster provisioning  
 
 ---
 
@@ -72,7 +73,6 @@ Terraform (Infrastructure Provisioning)
 🔗 https://github.com/Sonaligup-creator/Kubernetes-app-deployment  
 
 - Application deployment on Kubernetes  
-- Helm-based configurations  
 - Scalable microservices setup  
 
 ---
